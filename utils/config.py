@@ -1,2 +1,2 @@
 DEBUG_MODE = True
-PARAMETER_PREFIX = "lambda-failure-"
+PARAMETER_PREFIX = "failure-lambda-"
