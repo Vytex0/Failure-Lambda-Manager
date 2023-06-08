@@ -168,8 +168,6 @@ Test():
     stop()
 ```
 
-[Documentation](https://linktodocumentation)
-
 
 ## 👨‍💻 Authors
 
