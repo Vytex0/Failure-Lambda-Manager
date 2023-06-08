@@ -4,3 +4,4 @@ bulk/
 venv/
 .DS_Store
 **/.DS_Store
+utils/config.py
